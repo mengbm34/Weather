@@ -1,7 +1,7 @@
 package com.weather.android.logic.network
 
 import com.weather.android.WeatherApplication
-import com.weather.android.logic.dao.PlaceResponse
+import com.weather.android.logic.model.PlaceResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

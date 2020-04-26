@@ -1,4 +1,4 @@
-package com.weather.android.logic.dao
+package com.weather.android.logic.model
 
 import com.google.gson.annotations.SerializedName
 
